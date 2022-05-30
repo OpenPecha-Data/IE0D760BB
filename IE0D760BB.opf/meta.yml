@@ -1,0 +1,86 @@
+id: IE0D760BB
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:31:32.954282'
+last_modified: '2022-05-30T20:31:32.954287'
+parser: null
+source_metadata:
+  title: Dudjom Lingpa Series
+  language: nl
+  description: 'We present the following texts by and about the great tertön Dudjom
+    Lingpa (bdud ''joms gling pa, 1835–1904):'
+  volume:
+    fE90D:
+      title: A Sukhāvatī Prayer and Aspiration
+      base_file: fE90D.txt
+      order: 1
+      parent: Aspiration Prayers
+    f01F3:
+      title: An Aspiration
+      base_file: f01F3.txt
+      order: 2
+      parent: Aspiration Prayers
+    f9E4F:
+      title: An Aspiration Prayer
+      base_file: f9E4F.txt
+      order: 3
+      parent: Aspiration Prayers
+    fD241:
+      title: The Biography of the Great Orgyen that Naturally Liberates On Sight
+      base_file: fD241.txt
+      order: 4
+      parent: Biography
+    f8B77:
+      title: Golden Drink (Serkyem) and Torma Offering
+      base_file: f8B77.txt
+      order: 5
+      parent: Offering
+    f01D8:
+      title: The Verse for Offering Water from the Pure Vision, An Ocean of Accomplishments
+      base_file: f01D8.txt
+      order: 6
+      parent: Offering
+    fAA9D:
+      title: A Prayer
+      base_file: fAA9D.txt
+      order: 7
+      parent: Prayers
+    f8420:
+      title: A Prayer to Dudjom Lingpa
+      base_file: f8420.txt
+      order: 8
+      parent: Prayers
+    f8F19:
+      title: A Prayer to Padmasambhava
+      base_file: f8F19.txt
+      order: 9
+      parent: Prayers
+    fFF34:
+      title: A Prayer to Parṇaśavarī
+      base_file: fFF34.txt
+      order: 10
+      parent: Prayers
+    f8709:
+      title: The Outer, Inner and Secret Refuge Prayer
+      base_file: f8709.txt
+      order: 11
+      parent: Refuge
+    fE633:
+      title: 'Making Great Bliss the Path: Visualisation and Mantra Recitation of
+        Medicine Buddha'
+      base_file: fE633.txt
+      order: 12
+      parent: Sādhanas
+    fA434:
+      title: Visualization and Mantra Recitation of the Great Compassionate One
+      base_file: fA434.txt
+      order: 13
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
